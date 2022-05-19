@@ -1,4 +1,5 @@
 Experiment 1 :
+Wap to demonstrate status of key on an applet window such as KeyPressed,keyReleased,keyUp,keyDown
 
 
 import java.applet.Applet;
@@ -42,6 +43,7 @@ g.drawString(str, 50, 50);
 
 Experiment 2:
 
+mouseClicked, mouseEntered, mouseExited
 
 import java.awt.*;
 import java.awt.event.*;
@@ -98,6 +100,7 @@ Exp2_MouseEvents obj=new Exp2_MouseEvents();
 
 Experiment 3 :
 
+marks of all the students and display the result
 
 import java.awt.*;
 import java.awt.event.*;
@@ -229,7 +232,7 @@ Exp3_GUI ex = new Exp3_GUI();
 
 
 Experiment 4:
-
+Wap to insert and retrieve the data from the database using jdbc
 
 import java.sql.*;
 public class Exp4_JDBC {
@@ -278,7 +281,7 @@ e.printStackTrace();
 
 
 Experiment 6:
-
+Wap to demonstrate the use of inetaddress class and its factory method
 
 import java.net.*;
 public class Exp6_InetAddress {
@@ -308,6 +311,8 @@ System.out.println(SW2[i]);
 
 
 Experiment 9 :
+
+write a simple jsp page to display a simple message
 
 index.html
 
